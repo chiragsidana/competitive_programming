@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//github//
 int linearsearch(int arr[],int n,int k){
 for(int i=0;i<n;i++){
     if(arr[i]==k){
