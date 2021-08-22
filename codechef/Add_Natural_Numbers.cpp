@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//github//
 int main(){
     long long n;
     cin>>n;
