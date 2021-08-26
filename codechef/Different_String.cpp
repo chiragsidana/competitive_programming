@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 void solve(){
+    //farzi commit
     vector <string> arr;
     int n;
     cin>>n;
