@@ -9,6 +9,7 @@ int main(){
         cin>>temp;
         v.push_back(temp);
     }
+    //galat commit
     int x;
     cin>>x;
     int a,b;
