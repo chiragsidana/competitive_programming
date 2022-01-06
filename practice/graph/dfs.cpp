@@ -15,6 +15,7 @@ const int N=1e5+2;
     bool vis[N];
     vi adj[N];
 void dfs(int node){
+    //preorder
 vis[node]=1;
 cout<<node<<" ";
 vi :: iterator it;
@@ -24,7 +25,8 @@ for(it=adj[node].begin();it!=adj[node].end();it++){
        dfs(*it);
    } 
 }
-
+//postorder
+// cout<<node<<" ";
 }    
 int main()
 {
